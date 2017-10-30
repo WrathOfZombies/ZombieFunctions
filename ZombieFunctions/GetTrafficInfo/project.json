@@ -1,0 +1,6 @@
+﻿{
+  "dependencies": {
+    "newtonsoft.json": "10.0.2",
+    "Microsoft.ApplicationInsights.Web": "2.2.0"
+  }
+}
